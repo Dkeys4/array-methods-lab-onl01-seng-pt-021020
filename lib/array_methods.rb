@@ -18,7 +18,8 @@ end
 
 def using_first(array)
   
-  
+  ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.first
 
 end
 
