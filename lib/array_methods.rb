@@ -12,7 +12,7 @@ end
 def using_reverse(array)
   
   ["wow", "I", "am", "really", "learning", "arrays!"]
-  array#reverse
+  array.reverse
 
 end
 
